@@ -1,0 +1,10 @@
+D:\LTWINDOWS\Caro_Phap\bin\Debug\Caro_Phap.exe.config
+D:\LTWINDOWS\Caro_Phap\bin\Debug\Caro_Phap.exe
+D:\LTWINDOWS\Caro_Phap\bin\Debug\Caro_Phap.pdb
+D:\LTWINDOWS\Caro_Phap\obj\Debug\Caro_Phap.csproj.AssemblyReference.cache
+D:\LTWINDOWS\Caro_Phap\obj\Debug\Caro_Phap.Form1.resources
+D:\LTWINDOWS\Caro_Phap\obj\Debug\Caro_Phap.Properties.Resources.resources
+D:\LTWINDOWS\Caro_Phap\obj\Debug\Caro_Phap.csproj.GenerateResource.cache
+D:\LTWINDOWS\Caro_Phap\obj\Debug\Caro_Phap.csproj.CoreCompileInputs.cache
+D:\LTWINDOWS\Caro_Phap\obj\Debug\Caro_Phap.exe
+D:\LTWINDOWS\Caro_Phap\obj\Debug\Caro_Phap.pdb
